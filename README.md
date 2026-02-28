@@ -1,4 +1,5 @@
 # 📸 Webcam Access Simulation – Educational Cybersecurity Project
+![how-do-i-allow-camera-access-on-my-browser-1705929422](https://github.com/user-attachments/assets/89bc054a-975f-4ec7-a543-b4806d72148f)
 
 ⚠️ **Disclaimer**
 This project is created strictly for **educational and cybersecurity awareness purposes only**.
